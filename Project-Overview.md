@@ -53,7 +53,7 @@ This project does not use any projects from previous semesters.
 
 # Source Code Organization
 
-All project source code, scripts, configuration files, and documentation will be hosted at [Sara's Final Project Repo](https://github.com/cu-ecen-aeld/final-project-sarakayedwards)
+The Buildroot source and project documenation will be hosted at [Sara's Final Project Repo](https://github.com/cu-ecen-aeld/final-project-sarakayedwards). The driver source will be hosted at [Sara's Assignment 3 Repo](https://github.com/cu-ecen-aeld/assignments-3-and-later-sarakayedwards))
 
 # Schedule Page
 
