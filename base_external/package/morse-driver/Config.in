@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_MORSE_DRIVER
+	bool "morse-driver"
+	help
+	  Includes the Morse code driver.
