@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-MORSE_DRIVER_VERSION = 0d4e0e4fd2a06961eb65014b737679a6163ac489
+MORSE_DRIVER_VERSION = 90056f72f634f9fdd13e5465d2182952b10cea0a
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
